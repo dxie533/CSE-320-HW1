@@ -1,0 +1,102 @@
+0
+b
+i
+n
+/
+a
+u
+d
+i
+b
+l
+e
+bin/audible checked4
+-
+u
+its u3
+1
+2
+0
+i:2
+ factor:1
+1000000000000
+4001000000000000
+ global_options:
+2e theChar:
+0 before:
+2e after:
+73 theChar:
+2e before:
+2e73 after:
+6e theChar:
+2e73 before:
+2e736e after:
+64 theChar:
+2e736e before:
+2e736e64 after:worked
+2e736e64 thenumber:
+0 theChar:
+0 before:
+0 after:
+0 theChar:
+0 before:
+0 after:
+0 theChar:
+0 before:
+0 after:
+18 theChar:
+0 before:
+18 after:worked
+18 thenumber:
+0 theChar:
+0 before:
+0 after:
+2 theChar:
+0 before:
+2 after:
+25 theChar:
+2 before:
+225 after:
+ec theChar:
+225 before:
+225ec after:worked
+225ec data_size:
+0 theChar:
+0 before:
+0 after:
+0 theChar:
+0 before:
+0 after:
+0 theChar:
+0 before:
+0 after:
+3 theChar:
+0 before:
+3 after:worked
+3 the encoding:
+0 theChar:
+0 before:
+0 after:
+0 theChar:
+0 before:
+0 after:
+1f theChar:
+0 before:
+1f after:
+40 theChar:
+1f before:
+1f40 after:worked
+1f40 sample rate:
+0 theChar:
+0 before:
+0 after:
+0 theChar:
+0 before:
+0 after:
+0 theChar:
+0 before:
+0 after:
+2 theChar:
+0 before:
+2 after:worked
+2 the channel:.snd
